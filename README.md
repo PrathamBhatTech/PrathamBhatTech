@@ -27,7 +27,18 @@
 <code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="background-color:white;" /></code>
 <code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="background-color:white;" /></code>
 <code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /></code>
-
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></code>
+<code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" /></code>
+  
 <br><br><br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PrathamBhatTech&show_icons=true&theme=gotham" alt="PrathamBhatTech" />
+<a href="https://github.com/PrathamBhatTech/PrathamBhatTech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamBhatTech&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamBhatTech&show_icons=true&theme=gotham" alt="PrathamBhatTech" />
+</a>
