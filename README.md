@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl3MjM1amFjbDFkZzR4Z3VoeDZsdnl5ZDNzMDVqdHR5bjlkNTdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
-
 ###
 
 <div align="left">
@@ -86,9 +84,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PrathamBhatTech/PrathamBhatTech/output/snake.svg" alt="Snake animation" />
-
 ###
